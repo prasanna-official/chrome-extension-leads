@@ -1,0 +1,120 @@
+body {
+    background-color: green;
+    text-align: center;
+    font-family: trebuchet ms, sans-serif;
+    min-width: 400px;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 52px;
+}
+
+p {
+    color: white;
+    font-size: 31px;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+.start-btn {
+    background-color: goldenrod;
+    color: green;
+    font-size: 16px;
+    padding: 10px 10px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.new-card-btn {
+    background-color: goldenrod;
+    color: green;
+    font-size: 16px;
+    padding: 10px 10px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 100%;
+    border: 2px solid #000;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+#input-btn {
+    background-color: #bdf49e;
+    color: #000;
+    font-size: 16px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    display: inline-flex;
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+.white_btn {
+    background-color: #fff;
+    color: #000;
+    font-size: 16px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    display: inline-flex;
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+#box {
+    background-color: #bdf49e;
+    color: #000;
+    font-size: 16px;
+    padding: 40px;
+    width: 250px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+li {
+    list-style-type: none;
+    background-color: #bdf49e;
+    color: #000;
+    font-size: 16px;
+    padding: 10px;
+    width: 250px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+}
